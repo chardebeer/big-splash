@@ -1,0 +1,46 @@
+.elementor-319 .elementor-element.elementor-element-58c6bb34 > .elementor-container{min-height:100px;}.elementor-319 .elementor-element.elementor-element-58c6bb34 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-319 .elementor-element.elementor-element-58c6bb34:not(.elementor-motion-effects-element-type-background), .elementor-319 .elementor-element.elementor-element-58c6bb34 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-319 .elementor-element.elementor-element-58c6bb34{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:-125px;margin-bottom:0px;padding:0% 8% 0% 8%;z-index:1000;}.elementor-319 .elementor-element.elementor-element-58c6bb34 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button{font-family:"Euclid Circular B", Sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;fill:var( --e-global-color-primary );color:var( --e-global-color-primary );background-color:#3F576800;border-style:solid;border-width:1px 1px 1px 1px;border-color:var( --e-global-color-primary );}.elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button:hover, .elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button:focus{color:var( --e-global-color-secondary );background-color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button:hover svg, .elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button:focus svg{fill:var( --e-global-color-secondary );}.elementor-319 .elementor-element.elementor-element-ce4bc91 > .elementor-widget-container{padding:0px 0px 0px 0px;}@media(max-width:1024px){.elementor-319 .elementor-element.elementor-element-58c6bb34{padding:0% 5% 0% 5%;}.elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button{font-size:14px;}}@media(max-width:767px){.elementor-319 .elementor-element.elementor-element-58c6bb34 > .elementor-container{min-height:75px;}.elementor-319 .elementor-element.elementor-element-58c6bb34{padding:0% 5% 0% 0%;}.elementor-319 .elementor-element.elementor-element-4dbace3a{width:50%;}.elementor-319 .elementor-element.elementor-element-4dbace3a.elementor-column > .elementor-widget-wrap{justify-content:flex-start;}.elementor-319 .elementor-element.elementor-element-4ba15adb > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-319 .elementor-element.elementor-element-5ab88ecc{width:50%;}.elementor-319 .elementor-element.elementor-element-5ab88ecc.elementor-column > .elementor-widget-wrap{justify-content:flex-end;}.elementor-319 .elementor-element.elementor-element-5ab88ecc > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}.elementor-319 .elementor-element.elementor-element-ce4bc91 .elementor-button{padding:10px 20px 10px 20px;}.elementor-319 .elementor-element.elementor-element-ce4bc91 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-319 .elementor-element.elementor-element-ce4bc91{width:auto;max-width:auto;align-self:center;}}@media(min-width:768px){.elementor-319 .elementor-element.elementor-element-4dbace3a{width:29.585%;}.elementor-319 .elementor-element.elementor-element-5ab88ecc{width:70.415%;}}@media(max-width:1024px) and (min-width:768px){.elementor-319 .elementor-element.elementor-element-4dbace3a{width:30%;}.elementor-319 .elementor-element.elementor-element-5ab88ecc{width:70%;}}/* Start custom CSS */body{
+    overflow-x: hidden!important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-Light.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-Medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-SemiBold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Euclid Circular B';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('https://bigsplash.elementor.cloud/wp-content/uploads/2022/10/Euclid-Circular-B-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

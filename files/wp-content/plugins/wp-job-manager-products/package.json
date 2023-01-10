@@ -1,0 +1,23 @@
+{
+  "name": "wp-job-manager-products",
+  "version": "1.8.1",
+  "description": "Adds the ability to link WooCommerce products to listings. This can be done on the submission form or in the WordPress backend.",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astoundify/wp-job-manager-products.git"
+  },
+  "author": "Astoundify",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Astoundify/wp-job-manager-products/issues"
+  },
+  "homepage": "https://github.com/Astoundify/wp-job-manager-products#readme",
+  "devDependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt": "^1.0.1",
+    "grunt-wp-i18n": "^1.0.0",
+    "grunt-glotpress": "^0.2.2",
+    "grunt-checktextdomain": "^1.0.1"
+  }
+}
