@@ -65,8 +65,8 @@ define( 'WP_CACHE_KEY_SALT', 'Ts-H*x{OdV24|eX|7f_i(cU,bH@B&W(G[vy7xMaj9+EG,d#cZx
 $table_prefix = 'eGHJD_';
 
 
-    define('WP_HOME', "https://bigsplash.elementor.cloud/");
-    define('WP_SITEURL', "https://bigsplash.elementor.cloud/");
+    define('WP_HOME', "https://bigsplashyachting.com/");
+    define('WP_SITEURL', "https://bigsplashyachting.com/");
     if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
             $_SERVER['HTTPS'] = 'on';
     }
